@@ -1,0 +1,2 @@
+# LogiTalk
+Desktop chat app
